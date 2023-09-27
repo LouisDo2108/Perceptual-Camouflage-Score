@@ -1,5 +1,5 @@
 # Perceptual-Camouflage-Score
-This is a unofficial re-implementation of "Perceptual camouflage score" proposed in "The Making and Breaking of Camouflage".
+This is an unofficial re-implementation of "Perceptual camouflage score" proposed in "The Making and Breaking of Camouflage".
 
 # Reference
 ```
