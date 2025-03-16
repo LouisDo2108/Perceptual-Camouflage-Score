@@ -1,12 +1,12 @@
 # Perceptual-Camouflage-Score
-This is an unofficial re-implementation of "Perceptual camouflage score" proposed in "The Making and Breaking of Camouflage".
+This is an unofficial re-implementation of "Perceptual camouflage score" proposed in the paper "The Making and Breaking of Camouflage" (ICCV'23).
 
 # Reference
 ```
-@article{lamdouar2023making,
-  title={The Making and Breaking of Camouflage},
-  author={Lamdouar, Hala and Xie, Weidi and Zisserman, Andrew},
-  journal={arXiv preprint arXiv:2309.03899},
-  year={2023}
+@InProceedings{Lamdouar23,
+  author       = "Hala Lamdouar and Weidi Xie and Andrew Zisserman",
+  title        = "The Making and Breaking of Camouflage",
+  booktitle    = "IEEE International Conference on Computer Vision",
+  year         = "2023",
 }
 ```
